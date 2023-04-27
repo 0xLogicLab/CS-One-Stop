@@ -1,7 +1,7 @@
 
 # CS-One-Stop
 
-We are a team of **Computer Scientist** ready to help you solve all kinds of CS problems (e.g., **coursework, assignment, project, paper guidance**, etc.)
+We are a team of **Computer Scientist** ready to help you solve all kinds of CS problems (e.g., **coursework, assignment, project, paper guidance**, etc.) for more than 6+ years. We start from oDesk, Upwork, Freelancer and now on Github!
 
 **Contact us**: *0xlogiclab@gmail.com*
 
@@ -117,4 +117,14 @@ We are a team of **Computer Scientist** ready to help you solve all kinds of CS 
 -   [6.004 - Computation Structures - Massachusetts Institute of Technology](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/)
 -   [CS50 AP - Computer Science Principles - Harvard University](https://cs50.harvard.edu/ap/)
 -   [CSCI 135 - Software Design and Analysis I - Colorado State University](https://www.cs.colostate.edu/~cs135/schedule.html)
+-   [COMP101P - Introduction to Programming with Python - University College London](https://www.ucl.ac.uk/module-catalogue/modules/introduction-to-programming-with-python/COMP101P)
+-   [CSC108H1 - Introduction to Computer Science - University of Toronto](https://fas.calendar.utoronto.ca/course/CSC108H1)
+-   [EECS2030 - Object Oriented Programming and Data Structures - York University](https://w2prod.sis.yorku.ca/Apps/WebObjects/cdm.woa/3/wo/AZvUJ9hUORl6AgrWc1kMs4/4.3.7.11.0.0.13.2)
+-   [COMP2129 - Algorithms and Data Structures - The University of Sydney](https://www.sydney.edu.au/courses/units-of-study/2020/comp/comp2129.html)
+-   [CSCI E-15 - Dynamic Web Applications - Harvard Extension School](https://www.extension.harvard.edu/course-catalog/courses/dynamic-web-applications/24638)
+-   [CSI3105 - Analysis of Algorithms - University of Ottawa](https://catalogue.uottawa.ca/en/courses/csi3105)
+-   [CITS1001 - Programming Fundamentals - The University of Western Australia](https://handbooks.uwa.edu.au/unitdetails?code=CITS1001)
+-   [COMP3613 - Artificial Intelligence - The University of Hong Kong](https://aal.hku.hk/comp3613/)
+-   [COMPSCI 220 - Object-Oriented Program Design - University of Auckland](https://www.cs.auckland.ac.nz/courses/220/)
+-   [COS10011 - Creating Web Applications - Swinburne University of Technology](https://www.swinburne.edu.au/study/courses/units/Creating-Web-Applications-COS10011/local)
 -   and more ...
